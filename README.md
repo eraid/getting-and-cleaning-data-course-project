@@ -12,7 +12,7 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
   -- README.md: this file  
   -- CodeBook.md: describes the variables and the transformations needed to clean up the data  
-  -- download-dataset.R:script that download and unzip the dataset dataset in data folder  
+  -- download-dataset.R: script that download and unzip the dataset in data folder  
   -- run_analysis.R: script that transformand clean the data  
   -- tidy_dataset.txt: final tidy dataset  
 
